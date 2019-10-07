@@ -1679,8 +1679,6 @@
 		<value condition="[VideoPlayer.IsFullscreen | Window.IsActive(visualisation)] + Player.Forwarding">&#59055;</value>
 		<value condition="[VideoPlayer.IsFullscreen | Window.IsActive(visualisation)]">&#57457;</value>
 		<!-- DialogSelect.xml -->
-		<value condition="Window.IsActive(osdvideosettings) | Window.IsActive(osdaudiosettings) | Window.IsActive(Settings) | Window.IsActive(addonsettings) | Window.IsActive(osdaudiodspsettings)">&#59014;</value>
-		<value condition="Window.IsActive(osdaudiosettings)">&#57371;</value>
 		<value condition="Window.IsActive(gamepadinput) | Window.IsActive(gamecontrollers)">&#57371;</value>
 		<value condition="Window.IsActive(visualisationpresetlist)">&#57463;</value>
 		<value condition="Window.IsActive(DialogSelect.xml)">&#57447;</value>
