@@ -662,7 +662,6 @@
 						<label2>&#59119;</label2>
 						<onclick>Skin.Reset(OSD)</onclick>
 						<onclick>Close</onclick>
-						<onclick>ActivateWindow(GameViewMode)</onclick>
 						<visible allowhiddenfocus="true">Skin.String(OSD,Game)</visible>
 					</item>
 					<!-- Input settings -->
